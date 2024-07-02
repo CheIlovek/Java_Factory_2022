@@ -1,0 +1,34 @@
+июл. 02, 2024 7:56:39 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:56:39.037430200: Dealer Dealer-0: Auto 0 (Body: 0, Engine: 1, Accessory: 2)
+июл. 02, 2024 7:56:44 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:56:44.014027500: Dealer Dealer-2: Auto 1 (Body: 8, Engine: 9, Accessory: 4)
+июл. 02, 2024 7:56:49 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:56:49.025829300: Dealer Dealer-1: Auto 2 (Body: 17, Engine: 16, Accessory: 3)
+июл. 02, 2024 7:56:54 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:56:54.028861: Dealer Dealer-0: Auto 3 (Body: 24, Engine: 25, Accessory: 5)
+июл. 02, 2024 7:56:59 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:56:59.029592: Dealer Dealer-3: Auto 4 (Body: 33, Engine: 32, Accessory: 6)
+июл. 02, 2024 7:57:29 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:29.473180400: Dealer Dealer-2: Auto 6 (Body: 40, Engine: 82, Accessory: 7)
+июл. 02, 2024 7:57:29 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:29.473180400: Dealer Dealer-0: Auto 9 (Body: 61, Engine: 86, Accessory: 14)
+июл. 02, 2024 7:57:29 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:29.473180400: Dealer Dealer-3: Auto 5 (Body: 75, Engine: 84, Accessory: 11)
+июл. 02, 2024 7:57:29 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:29.473180400: Dealer Dealer-1: Auto 10 (Body: 54, Engine: 87, Accessory: 13)
+июл. 02, 2024 7:57:34 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:34.475102900: Dealer Dealer-2: Auto 8 (Body: 68, Engine: 85, Accessory: 12)
+июл. 02, 2024 7:57:34 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:34.476102200: Dealer Dealer-0: Auto 7 (Body: 47, Engine: 83, Accessory: 10)
+июл. 02, 2024 7:57:34 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:34.476102200: Dealer Dealer-3: Auto 11 (Body: 189, Engine: 88, Accessory: 15)
+июл. 02, 2024 7:57:39 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:39.041929600: Dealer Dealer-1: Auto 12 (Body: 197, Engine: 89, Accessory: 18)
+июл. 02, 2024 7:57:44 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:44.042493900: Dealer Dealer-2: Auto 13 (Body: 204, Engine: 90, Accessory: 20)
+июл. 02, 2024 7:57:47 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:47.031800300: Dealer Dealer-3: Auto 14 (Body: 211, Engine: 91, Accessory: 19)
+июл. 02, 2024 7:57:50 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:50.020917700: Dealer Dealer-1: Auto 15 (Body: 218, Engine: 92, Accessory: 21)
+июл. 02, 2024 7:57:53 PM factory.model.Dealer logCarInfo
+INFO: 2024-07-02T19:57:53.009916800: Dealer Dealer-2: Auto 16 (Body: 219, Engine: 93, Accessory: 23)
